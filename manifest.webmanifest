@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Slowroads \u00b7 Plan B",
+  "short_name": "Slowroads",
+  "description": "Offline roadbook and cooperative road-trip quests.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#233e36",
+  "icons": [
+    {
+      "src": "assets/mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
